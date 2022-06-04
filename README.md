@@ -8,4 +8,6 @@ After that
 
 Type 
 
-"npm start" in both the folders wait for 5 mins then your browser will open up with the app running
+"npm start"
+
+in both the folders wait for 5 mins then your browser will open up with the app running
